@@ -19,7 +19,7 @@ You only need a standard **Python environment** that can run a Jupyter Notebook 
 
 ### **Starting the Game**
 
-1. Open and run the code cells in the Connect4\_Final (2).ipynb file.  
+1. Open and run the code cells in the Connect4\_Final.ipynb file.  
 2. The game will automatically start by calling the play\_game() function.
 
 ### **Gameplay**
